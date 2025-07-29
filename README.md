@@ -52,7 +52,7 @@ Jogo encontrado: Contra Atlético MG | Brasileirão Série A
 </pre>
 
 <h2>📬 Contato</h2>
-<p>Caso tenha dúvidas, sugestões ou queira contribuir, fique à vontade para abrir uma <code>issue</code> ou <code>pull request</code>.</p>
+<p>Caso tenha dúvidas, sugestões ou queira contribuir, fique à vontade para me chamar no <a href="https://www.linkedin.com/in/gabriel-fructuozo">LinkedIn</a>.</p>
 
 <h2>🧪 Objetivo</h2>
 <p>Este projeto tem como principal objetivo o aprendizado e prática de automações com Selenium.</p>
